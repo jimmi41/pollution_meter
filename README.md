@@ -1,6 +1,6 @@
 # pollution_meter
 
-A new Flutter project.
+A basic flutter project. In this project using json api it is accessing real time pollution data from various locations all over in India. And arranging them in a List type manner for the user.
 
 ## Getting Started
 
